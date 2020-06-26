@@ -1,7 +1,5 @@
 package SwordToOffer;
 
-import java.util.Arrays;
-
 /**
  * 机器人的运动范围
  * */

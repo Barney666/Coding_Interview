@@ -21,7 +21,7 @@ public class Exercise60 {
         }
     }
 
-    ArrayList<ArrayList<Integer>> Print(TreeNode pRoot) {
+    public ArrayList<ArrayList<Integer>> Print(TreeNode pRoot) {
         ArrayList<ArrayList<Integer>> outer=new ArrayList();
         if(pRoot==null)
             return outer;

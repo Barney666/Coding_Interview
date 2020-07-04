@@ -1,7 +1,7 @@
 package SwordToOffer;
 
 /**
- *  二叉树的下一个结点
+ *  二叉树的下一个结点【中序】
  * 【就这么几种情况 记住就得了】
  * */
 public class Exercise57 {

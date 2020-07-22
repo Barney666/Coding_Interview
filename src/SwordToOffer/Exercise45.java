@@ -35,10 +35,3 @@ public class Exercise45 {
         return replace<0 ? false : true;
     }
 }
-class x{
-    public static void main(String[] args) {
-        Exercise45 exercise45=new Exercise45();
-        int[] a= {0,3,2,6,4};
-        exercise45.isContinuous(a);
-    }
-}

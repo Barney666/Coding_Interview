@@ -2,6 +2,8 @@ package SwordToOffer;
 
 /**
  * 整数中1出现的次数
+ * https://leetcode-cn.com/problems/1nzheng-shu-zhong-1chu-xian-de-ci-shu-lcof/solution/mian-shi-ti-43-1n-zheng-shu-zhong-1-chu-xian-de-2/】
+ * 很牛逼的解法 不会真的有人不看答案也能想到吧
  * */
 public class Exercise31 {
     public int NumberOf1Between1AndN_Solution(int n) {

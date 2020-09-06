@@ -46,7 +46,7 @@ public class Exercise26 {
             if(cur.right!=null){
                 cur=cur.right;
                 while (true){     // 这块不能是cur.right!=null
-                    stack.push(cur);
+                    stack.push(cur); 
                     if(cur.left==null)
                         break;
                     else

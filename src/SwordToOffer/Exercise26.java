@@ -54,7 +54,7 @@ public class Exercise26 {
                 }
             }
         }
-        
+
         while (true){
             if(cur.left==null)
                 break;

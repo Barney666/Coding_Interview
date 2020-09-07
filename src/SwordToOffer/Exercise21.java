@@ -5,7 +5,7 @@ import java.util.Stack;
 /**
  *  栈的压入、弹出序列
  * 【非常屌的思路：新建一个栈，将数组A压入栈中，当栈顶元素等于数组B时，就将其出栈，当循环结束时，判断栈是否为空，若为空则返回true】
- * */
+ * */ 
 public class Exercise21 {
 
     public boolean IsPopOrder(int [] pushA,int [] popA) {

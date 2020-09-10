@@ -8,7 +8,7 @@ package SwordToOffer;
  *
  * 这思路真的nm巧
  * */
-public class Exercise1 {
+public class Exercise01 {
     public boolean Find(int target, int [][] array) {
         int i=array.length-1;
         int j=0;

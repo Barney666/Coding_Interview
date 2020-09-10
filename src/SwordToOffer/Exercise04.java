@@ -8,7 +8,7 @@ import java.util.stream.Collectors;
  * 重建二叉树
  *
  * */
-public class Exercise4 {
+public class Exercise04 {
 
     class TreeNode {
         int val;

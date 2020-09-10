@@ -6,7 +6,7 @@ package SwordToOffer;
  *【这里二分法去和谁比较很有讲究，挺坑的这题】
  *
  * */
-public class Exercise6 {
+public class Exercise06 {
     public int minNumberInRotateArray(int [] array) {
         int low=0, high=array.length-1;
         int mid;

@@ -4,7 +4,7 @@ package SwordToOffer;
  * 跳台阶【只能跳1阶或2阶】
  *
  * */
-public class Exercise8 {
+public class Exercise08 {
 
     public int JumpFloor(int target) {
         if(target==1)

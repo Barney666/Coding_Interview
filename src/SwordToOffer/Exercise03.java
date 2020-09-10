@@ -7,7 +7,7 @@ import java.util.Stack;
  * 从尾到头打印链表
  *
  * */
-public class Exercise3 {
+public class Exercise03 {
 
     class ListNode {
         int val;

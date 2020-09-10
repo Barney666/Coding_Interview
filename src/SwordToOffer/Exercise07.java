@@ -4,7 +4,7 @@ package SwordToOffer;
  * 斐波那契数列
  *
  * */
-public class Exercise7 {
+public class Exercise07 {
     public int Fibonacci(int n) {
         if(n==0)
             return 0;

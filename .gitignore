@@ -3,4 +3,5 @@ out
 target
 Coding_Interview.iml
 .DS_Store
-src/Moccode/venv
+src/MoocCode/venv
+src/MoocCode/.idea

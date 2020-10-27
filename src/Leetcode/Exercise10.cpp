@@ -14,7 +14,7 @@ public:
         };
 
         bool dp[s_length+1][p_length+1];    // dp[i][j]表示字符串s的前i个字符能否与模式p前j个字符相匹配
-        //注意是前i个和前j个，不是index为i/j，因此后面在s/p上用i/j时要减1
+        // 注意是前i个和前j个，不是index为i/j，因此后面在s/p上用i/j时要减1
         memset(dp, false, sizeof(dp));    // 默认false
         // memset是对连续空间赋值，所以只能用于直接定义的二维数组,因为[][]这样定义内存是连续的，嵌套一维那种定义就要定义一次一维memset一次
         dp[0][0] = true;

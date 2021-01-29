@@ -10,6 +10,7 @@ struct ListNode {
     ListNode(int x, ListNode *next) : val(x), next(next) {}
 };
 
+// 注意反转两个链表只是pre和next变了，不是调换位置那样！总想错！
 
 class Solution {
 public:

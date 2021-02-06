@@ -23,6 +23,6 @@ public:
                     dp[i][j] = dp[i-1][j-1];
             }
         }
-        return dp[row][column]; 
+        return dp[row][column];
     }
 };

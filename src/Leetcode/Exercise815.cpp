@@ -43,8 +43,3 @@ public:
         return -1;
     }
 };
-int main(){
-    Solution solution;
-    vector<vector<int>> routes = {{1,2},{2,3},{3,4}};
-    cout << solution.numBusesToDestination(routes,1,4);
-}
